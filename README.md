@@ -10,4 +10,4 @@ Competition. Several data visualization, feature engineering and primary compone
 prepare the data for modeling.
 
 Instructions for the notebook:
-Download the jupyter notebook, images and the dataset folder into the same folder.
+Download the jupyter notebook, images and all the csv dataset files into the same folder. Copy the csv files to a new folder named Datasets. The notebook will be ready to run.
