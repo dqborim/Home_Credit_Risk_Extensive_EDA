@@ -10,4 +10,4 @@ Competition. Several data visualization, feature engineering and primary compone
 prepare the data for modeling.
 
 Instructions for the notebook:
-Download the jupyter notebook, images and all the csv dataset files into the same folder. Copy the csv files to a new folder named Datasets. The notebook will be ready to run.
+Download the jupyter notebook and images files into the same folder. Download all the datasets from Kaggle competition https://www.kaggle.com/c/home-credit-default-risk/data and save it into a new folder called Dataset together with the other files. The notebook should be ready to run.
