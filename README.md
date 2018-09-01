@@ -1,4 +1,4 @@
-# Home_Credit_Risk_Extensive_EDA
+# Home_Credit_Risk_Kaggle_Competition_EDA_Machine_Learning
  
 Description:
 1st Notebook is an Extensive exploratory data analysis, features engineering and dimensionality reduction of the datasets from Home Credit Default Risk Kaggle Competition.
